@@ -13,4 +13,4 @@ No entanto, o desenvolvimento do software não envolveu práticas tão boas de d
 ## Professor responsável 
 
 * Juliana Padilha
-
+* Johnatan Alves de Oliveira
